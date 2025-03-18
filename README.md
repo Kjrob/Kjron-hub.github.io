@@ -1,6 +1,6 @@
 # Biomedical Engineer
 ## Biophotonics & Hardware Systems 
-### TECHNICAL SKILLS
+### TECHNICAL SKILLs
 
 ---
 
